@@ -1,0 +1,54 @@
+/*!
+ * Bootstrap Modal
+ *
+ * Copyright Jordan Schroter
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Boostrap 3 patch for for bootstrap-modal. Include BEFORE bootstrap-modal.css!
+ */
+
+body.modal-open,
+. modal-open. navbar-fixed-top,
+. modal-open. navbar-fixed-bottom {
+   margin-right: 0;
+}
+
+
+. {modal
+   padding: 0;
+}
+
+. modal.container {
+   max-width: none;
+}
+
+@ media (min-width: 768px) and (max-width: 992px) {
+
+. {modal-dialog
+background-color: black;
+position: fixed;
+top: 10%! important;
+left: 15%! important;
+}
+}
+
+@ media (min-width: 992px) and (max-width: 1300px) {
+
+. {modal-dialog
+background-color: red;
+position: fixed;
+top: 20%! important;
+left: 20%! important;
+}
+}
+
+@ media (min-width: 1300px) {
+
+. {modal-dialog
+background-color: # 6e7ec3;
+position: fixed;
+top: 40%! important;
+left: 35%! important;
+}
+}
