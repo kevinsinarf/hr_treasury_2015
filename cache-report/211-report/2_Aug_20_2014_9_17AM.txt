@@ -1,0 +1,78 @@
+
+<style type='text/css'>
+				.font_1 {
+					font-size:15pt;
+				}
+				body{
+					font-size:9pt;
+				}
+				.nrmal_font{
+					font-size:9pt;
+				}
+				table {
+					border-collapse:collapse;
+				}
+				td {
+					padding:5px;
+				}
+				
+			</style>
+ <div align='center' style='text-align:center;' ><strong><p>หนังสือแจ้งผลการเลื่อนเงินเดือนข้าราชการ</p>
+ <p>สำหรับรอบการประเมิน ครั้งที่ ๑ ( ๑ ตุลาคม ๒๕๕๖ - ๓๑ มีนาคม ๒๕๕๗ )    </p>
+ <p>กรมป้องกันและบรรเทาสาธารณภัย</p> </strong>
+ <p>---------------------</p>
+ 
+ </div>  <div align='center' style='text-align:center;' ><table width='100%' border='0' cellspacing='0' cellpadding='0' style='margin-bottom:15px; '     >
+	<thead width='100%' border='0' cellspacing='0' cellpadding='0' >
+  <tr   ><td style='width:5%'></td><td>
+ <p><strong>ชื่อ - สกุล </strong>: เรือตรีหญิงปรารถนา  นิตยสมบูรณ์</p><br/>
+ <p><strong>ตำแหน่ง </strong>: นักทรัพยากรบุคคล</p><br/>
+ <p><strong>ระดับ </strong>: ชำนาญการ</p><br/>
+ <p><strong>หน่วยงานปฎิบัติ </strong>: กจ.</p><br/>
+ <p><strong>ตำแหน่งเลขที่ </strong>: ๒๐๐</p><br/>
+  <p><strong>เงินเดือนเดิม </strong>: ๒๖,๐๕๓ บาท</p><br/>
+</td></tr></table></div> 
+ <div style='margin-left: auto; margin-right: auto; width: 90%'><table width='100%' border='0' cellspacing='0' cellpadding='0' style='margin-bottom:15px; '     >
+	<thead width='100%' border='0' cellspacing='0' cellpadding='0' >
+  <tr   ><td style='width:5%'><img border=0 src='../../images/tick_me00.png' style='width:30px;'></td><td>
+   <span>ได้รับการเลื่อนเงินเดือน  :</span>
+</td></tr></table>  </div> 
+ 
+   <div style='margin-left: auto; margin-right: auto; width: 80%'>  <cente><table width='100%' border='0' cellspacing='0' cellpadding='0' style='margin-bottom:15px; '  style='border: 1px solid black;margin:0px; padding:0px;'   >
+	<thead width='100%' border='0' cellspacing='0' cellpadding='0' >
+  <tr   >
+    <th style='height:1cm; border:solid 1px #000000;' rowspan=2><div align='center'><strong>ฐาน<br/>ในการคำนวณ<br/> ( บาท )</strong></div></th>
+    <th style='height:1cm; border:solid 1px #000000;'   rowspan=2><div align='center'><strong>ร้อยละ<br/>ที่ได้เลื่อน</strong></div></th>
+    <th style='height:1cm; border:solid 1px #000000;'   colspan=2><div align='center'><strong>จำนวนเงินที่ได้เลื่อน</strong></div></th>
+    <th style='height:1cm; border:solid 1px #000000;'   rowspan=2><div align='center'><strong>เงินเดือน<br/>  ณ ๑ เม.ย.๒๕๕๗<br/>( บาท )</strong></div></th>
+    
+  </tr>
+  <tr   >
+    <th style='height:1cm; border:solid 1px #000000;'  ><div align='center'  ><strong>เงินเดือน<br/>ที่ได้เลื่อน <br/>( บาท )</strong></div></th>
+    <th style='height:1cm; border:solid 1px #000000;'  ><div align='center'  ><strong>เงินค่าตอบแทน<br/>พิเศษ <br/>( บาท ) </strong></div></th>
+ 
+  </tr>
+ 
+  </thead> 
+  
+  <tr>
+     <td  align='center' valign='top' style='border:solid 1px #000000; '   >๒๒,๒๒๐</td>
+	 <td  align='center' valign='top' style='border:solid 1px #000000; '  >๐.๐๐๐</td>
+	 <td  align='center' valign='top' style='border:solid 1px #000000; '  >๐.๐๐</td>
+	 <td  align='center' valign='top' style='border:solid 1px #000000; '  >๐.๐๐</td>
+	 <td  align='center' valign='top' style='border:solid 1px #000000; '  >๐</td>
+  </tr>
+   
+  </table> </center> </div>  <br/> <br/>
+ <div style='margin-left: auto; margin-right: auto; width: 90%'><table width='100%' border='0' cellspacing='0' cellpadding='0' style='margin-bottom:15px; '     >
+	<thead width='100%' border='0' cellspacing='0' cellpadding='0' >
+  <tr   ><td style='width:5%'><img border=0 src='../../images/tick_me01.png' style='width:30px;'></td><td>
+    
+   <span>กรณีที่ไม่ได้รับการเลื่อนเงินเดือน เนื่องจาก ( เหตุุผล )  :</span>
+   <br/> <u></u>
+</td></tr>  
+ 
+  <tr   ><td style='width:5%'></td><td>
+   <strong>หมายเหตุ :</strong><br/>
+   
+</td></tr></table>  </div>

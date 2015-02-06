@@ -1,0 +1,129 @@
+@charset "windows-874";
+/* CSS Document */
+.text {
+	font-family: 'tahoma';
+	font-weight: bold;
+	font-style: normal;
+	font-size: 17px;
+	color: #6f6900;
+}
+.text2 {
+	font-family: 'tahoma';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 13px;
+	color: #000000;
+}
+.text3 {
+	font-family: 'tahoma';
+	font-weight: bold;
+	font-style: normal;
+	font-size: 20px;
+	color: #fff;
+}
+.menu {
+	font-family: 'tahoma';
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.menu a:link {
+	font-family: 'tahoma';
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.menu a:visited {
+	font-family: 'tahoma';
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.menu a:hover {
+	font-family: 'tahoma';
+	font-size: 14px;
+	font-weight: normal;
+	color: #177e10;
+	text-decoration: none;
+}
+.menu a:active {
+	font-family: 'tahoma';
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.table {
+	width:970px;
+    margin:auto;
+}
+.table1 {
+	width:925px;
+    margin:auto;
+    webkit-border-radius:7px 7px 7px 7px;   
+	moz-border-radius:7px 7px 7px 7px;
+    border-radius:7px 7px 7px 7px;
+    border:solid 1px #cbc9c9;
+	background-color:#FFF;
+}
+.table2 {
+	width:150px;
+	height:22px;
+    margin:auto;
+    webkit-border-radius:3px 3px 3px 3px;   
+	moz-border-radius:3px 3px 3px 3px;
+    border-radius:3px 3px 3px 3px;
+    border:solid 1px #cbc9c9;
+	background-color:#ebebeb;
+}
+.table3 {
+	width:70px;
+	height:25px;
+    margin:auto;
+	font-family:tahoma;
+	font-size: 13px;
+    webkit-border-radius:3px 3px 3px 3px;   
+	moz-border-radius:3px 3px 3px 3px;
+    border-radius:3px 3px 3px 3px;
+    border:solid 1px #999001;
+	background-color:#fff;
+}
+.table4 {
+	width:150px;
+	height:25px;
+    margin:auto;
+	font-family:tahoma;
+	font-size: 13px;
+	color: #ffffff;
+    webkit-border-radius:3px 3px 3px 3px;   
+	moz-border-radius:3px 3px 3px 3px;
+    border-radius:3px 3px 3px 3px;
+    border:solid 1px #00335e;
+	background-color:#00335e;
+}
+.table5 {
+	width:620px;
+	height:250px;
+    webkit-border-radius:7px 7px 7px 7px;   
+	moz-border-radius:7px 7px 7px 7px;
+    border-radius:7px 7px 7px 7px;
+    border:solid 1px #cbc9c9;
+	background-color:#FFF;
+}
+.table6 {
+	width:900px;
+	height:50px;
+    margin:auto;
+}
+.table7 {
+	width:150px;
+	margin:auto;
+    webkit-border-radius:7px 7px 7px 7px;   
+	moz-border-radius:7px 7px 7px 7px;
+    border-radius:7px 7px 7px 7px;
+    border:solid 1px #f1a004;
+	background-color:#ffa800;
+}
